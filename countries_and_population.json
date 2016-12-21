@@ -1,0 +1,1219 @@
+{
+  "data": [
+    {
+      "country": "China",
+      "contribution": "18.5%",
+      "population": "1,380,300,000"
+    },
+    {
+      "country": "India",
+      "contribution": "17.5%",
+      "population": "1,308,930,000"
+    },
+    {
+      "country": "United States",
+      "contribution": "4.35%",
+      "population": "325,099,000"
+    },
+    {
+      "country": "Indonesia",
+      "contribution": "3.49%",
+      "population": "260,581,000"
+    },
+    {
+      "country": "Brazil",
+      "contribution": "2.77%",
+      "population": "206,798,000"
+    },
+    {
+      "country": "Pakistan",
+      "contribution": "2.61%",
+      "population": "195,028,000"
+    },
+    {
+      "country": "Nigeria",
+      "contribution": "2.50%",
+      "population": "186,987,000"
+    },
+    {
+      "country": "Bangladesh",
+      "contribution": "2.16%",
+      "population": "161,559,000"
+    },
+    {
+      "country": "Russia",
+      "contribution": "1.96%",
+      "population": "146,727,405"
+    },
+    {
+      "country": "Japan",
+      "contribution": "1.70%",
+      "population": "126,950,000"
+    },
+    {
+      "country": "Mexico",
+      "contribution": "1.72%",
+      "population": "122,273,000"
+    },
+    {
+      "country": "Philippines",
+      "contribution": "1.38%",
+      "population": "103,431,000"
+    },
+    {
+      "country": "Ethiopia",
+      "contribution": "1.36%",
+      "population": "101,853,000"
+    },
+    {
+      "country": "Vietnam",
+      "contribution": "1.28%",
+      "population": "95,261,000"
+    },
+    {
+      "country": "Egypt",
+      "contribution": "1.23%",
+      "population": "92,078,900"
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "contribution": "1.10%",
+      "population": "85,110,000"
+    },
+    {
+      "country": "Germany",
+      "contribution": "1.10%",
+      "population": "82,175,700"
+    },
+    {
+      "country": "Iran",
+      "contribution": "1.07%",
+      "population": "79,742,900"
+    },
+    {
+      "country": "Turkey",
+      "contribution": "1.05%",
+      "population": "78,741,053"
+    },
+    {
+      "country": "Thailand",
+      "contribution": "0.91%",
+      "population": "68,145,000"
+    },
+    {
+      "country": "France",
+      "contribution": "0.890%",
+      "population": "66,842,000"
+    },
+    {
+      "country": "United Kingdom",
+      "contribution": "0.87%",
+      "population": "65,110,000"
+    },
+    {
+      "country": "Italy",
+      "contribution": "0.81%",
+      "population": "60,588,658"
+    },
+    {
+      "country": "South Africa",
+      "contribution": "0.75%",
+      "population": "55,908,000"
+    },
+    {
+      "country": "Tanzania",
+      "contribution": "0.74%",
+      "population": "55,155,000"
+    },
+    {
+      "country": "Myanmar",
+      "contribution": "0.73%",
+      "population": "54,635,000"
+    },
+    {
+      "country": "South Korea",
+      "contribution": "0.68%",
+      "population": "50,801,405"
+    },
+    {
+      "country": "Colombia",
+      "contribution": "0.656%",
+      "population": "48,959,600"
+    },
+    {
+      "country": "Kenya",
+      "contribution": "0.63%",
+      "population": "47,251,000"
+    },
+    {
+      "country": "Spain",
+      "contribution": "0.63%",
+      "population": "46,812,000"
+    },
+    {
+      "country": "Argentina",
+      "contribution": "0.59%",
+      "population": "43,850,000"
+    },
+    {
+      "country": "Ukraine",
+      "contribution": "0.57%",
+      "population": "42,635,097"
+    },
+    {
+      "country": "Sudan",
+      "contribution": "0.55%",
+      "population": "41,176,000"
+    },
+    {
+      "country": "Algeria",
+      "contribution": "0.54%",
+      "population": "40,400,000"
+    },
+    {
+      "country": "Poland",
+      "contribution": "0.51%",
+      "population": "38,426,809"
+    },
+    {
+      "country": "Uganda",
+      "contribution": "0.49%",
+      "population": "36,860,700"
+    },
+    {
+      "country": "Iraq",
+      "contribution": "0.49%",
+      "population": "36,787,000"
+    },
+    {
+      "country": "Canada",
+      "contribution": "0.487%",
+      "population": "36,385,100"
+    },
+    {
+      "country": "Morocco",
+      "contribution": "0.457%",
+      "population": "34,163,200"
+    },
+    {
+      "country": "Saudi Arabia",
+      "contribution": "0.44%",
+      "population": "32,775,000"
+    },
+    {
+      "country": "Malaysia",
+      "contribution": "0.427%",
+      "population": "31,863,200"
+    },
+    {
+      "country": "Uzbekistan",
+      "contribution": "0.42%",
+      "population": "31,575,300"
+    },
+    {
+      "country": "Peru",
+      "contribution": "0.42%",
+      "population": "31,488,700"
+    },
+    {
+      "country": "Venezuela",
+      "contribution": "0.42%",
+      "population": "31,028,700"
+    },
+    {
+      "country": "Nepal",
+      "contribution": "0.38%",
+      "population": "30,986,975"
+    },
+    {
+      "country": "Ghana",
+      "contribution": "0.38%",
+      "population": "28,308,301"
+    },
+    {
+      "country": "Afghanistan",
+      "contribution": "0.37%",
+      "population": "27,657,145"
+    },
+    {
+      "country": "Yemen",
+      "contribution": "0.37%",
+      "population": "27,478,000"
+    },
+    {
+      "country": "Mozambique",
+      "contribution": "0.35%",
+      "population": "26,423,700"
+    },
+    {
+      "country": "Angola",
+      "contribution": "0.35%",
+      "population": "25,789,024"
+    },
+    {
+      "country": "Australia",
+      "contribution": "0.325%",
+      "population": "24,295,000"
+    },
+    {
+      "country": "North Korea",
+      "contribution": "0.32%",
+      "population": "24,213,510"
+    },
+    {
+      "country": "Taiwan",
+      "contribution": "0.31%",
+      "population": "23,526,295"
+    },
+    {
+      "country": "Cameroon",
+      "contribution": "0.30%",
+      "population": "22,709,892"
+    },
+    {
+      "country": "Ivory Coast",
+      "contribution": "0.30%",
+      "population": "22,671,331"
+    },
+    {
+      "country": "Madagascar",
+      "contribution": "0.30%",
+      "population": "22,434,363"
+    },
+    {
+      "country": "Sri Lanka",
+      "contribution": "0.28%",
+      "population": "21,203,000"
+    },
+    {
+      "country": "Niger",
+      "contribution": "0.28%",
+      "population": "20,715,000"
+    },
+    {
+      "country": "Romania",
+      "contribution": "0.26%",
+      "population": "19,760,000"
+    },
+    {
+      "country": "Burkina Faso",
+      "contribution": "0.25%",
+      "population": "19,034,397"
+    },
+    {
+      "country": "Syria",
+      "contribution": "0.25%",
+      "population": "18,564,000"
+    },
+    {
+      "country": "Mali",
+      "contribution": "0.25%",
+      "population": "18,341,000"
+    },
+    {
+      "country": "Chile",
+      "contribution": "0.24%",
+      "population": "18,191,900"
+    },
+    {
+      "country": "Kazakhstan",
+      "contribution": "0.24%",
+      "population": "17,753,200"
+    },
+    {
+      "country": "Netherlands",
+      "contribution": "0.229%",
+      "population": "17,069,000"
+    },
+    {
+      "country": "Malawi",
+      "contribution": "0.23%",
+      "population": "16,832,910"
+    },
+    {
+      "country": "Ecuador",
+      "contribution": "0.223%",
+      "population": "16,638,000"
+    },
+    {
+      "country": "Guatemala",
+      "contribution": "0.22%",
+      "population": "16,176,133"
+    },
+    {
+      "country": "Zambia",
+      "contribution": "0.21%",
+      "population": "15,933,883"
+    },
+    {
+      "country": "Cambodia",
+      "contribution": "0.21%",
+      "population": "15,626,444"
+    },
+    {
+      "country": "Senegal",
+      "contribution": "0.20%",
+      "population": "14,799,859"
+    },
+    {
+      "country": "Chad",
+      "contribution": "0.19%",
+      "population": "14,497,000"
+    },
+    {
+      "country": "Zimbabwe",
+      "contribution": "0.19%",
+      "population": "14,240,168"
+    },
+    {
+      "country": "Guinea",
+      "contribution": "0.17%",
+      "population": "12,947,000"
+    },
+    {
+      "country": "South Sudan",
+      "contribution": "0.16%",
+      "population": "12,131,000"
+    },
+    {
+      "country": "Rwanda",
+      "contribution": "0.15%",
+      "population": "11,553,188"
+    },
+    {
+      "country": "Belgium",
+      "contribution": "0.15%",
+      "population": "11,342,835"
+    },
+    {
+      "country": "Cuba",
+      "contribution": "0.15%",
+      "population": "11,239,004"
+    },
+    {
+      "country": "Tunisia",
+      "contribution": "0.15%",
+      "population": "11,154,400"
+    },
+    {
+      "country": "Somalia",
+      "contribution": "0.15%",
+      "population": "11,079,000"
+    },
+    {
+      "country": "Haiti",
+      "contribution": "0.15%",
+      "population": "11,078,033"
+    },
+    {
+      "country": "Bolivia",
+      "contribution": "0.15%",
+      "population": "10,985,059"
+    },
+    {
+      "country": "Greece",
+      "contribution": "0.15%",
+      "population": "10,858,018"
+    },
+    {
+      "country": "Benin",
+      "contribution": "0.14%",
+      "population": "10,653,654"
+    },
+    {
+      "country": "Czech Republic",
+      "contribution": "0.14%",
+      "population": "10,564,866"
+    },
+    {
+      "country": "Portugal",
+      "contribution": "0.14%",
+      "population": "10,341,330"
+    },
+    {
+      "country": "Burundi",
+      "contribution": "0.14%",
+      "population": "10,114,505"
+    },
+    {
+      "country": "Dominican Republic",
+      "contribution": "0.13%",
+      "population": "10,075,045"
+    },
+    {
+      "country": "Sweden",
+      "contribution": "0.13%",
+      "population": "9,967,274"
+    },
+    {
+      "country": "United Arab Emirates",
+      "contribution": "0.13%",
+      "population": "9,856,000"
+    },
+    {
+      "country": "Hungary",
+      "contribution": "0.13%",
+      "population": "9,830,485"
+    },
+    {
+      "country": "Azerbaijan",
+      "contribution": "0.13%",
+      "population": "9,784,600"
+    },
+    {
+      "country": "Jordan",
+      "contribution": "0.131%",
+      "population": "9,776,790"
+    },
+    {
+      "country": "Belarus",
+      "contribution": "0.127%",
+      "population": "9,505,200"
+    },
+    {
+      "country": "Austria",
+      "contribution": "0.117%",
+      "population": "8,767,919"
+    },
+    {
+      "country": "Honduras",
+      "contribution": "0.117%",
+      "population": "8,721,014"
+    },
+    {
+      "country": "Israel",
+      "contribution": "0.115%",
+      "population": "8,620,490"
+    },
+    {
+      "country": "Tajikistan",
+      "contribution": "0.114%",
+      "population": "8,551,000"
+    },
+    {
+      "country": "Switzerland",
+      "contribution": "0.112%",
+      "population": "8,364,100"
+    },
+    {
+      "country": "Papua New Guinea",
+      "contribution": "0.109%",
+      "population": "8,151,300"
+    },
+    {
+      "country": "Hong Kong",
+      "contribution": "0.098%",
+      "population": "7,346,700"
+    },
+    {
+      "country": "Bulgaria",
+      "contribution": "0.096%",
+      "population": "7,153,784"
+    },
+    {
+      "country": "Togo",
+      "contribution": "0.096%",
+      "population": "7,143,000"
+    },
+    {
+      "country": "Serbia",
+      "contribution": "0.095%",
+      "population": "7,076,372"
+    },
+    {
+      "country": "Sierra Leone",
+      "contribution": "0.095%",
+      "population": "7,075,641"
+    },
+    {
+      "country": "Paraguay",
+      "contribution": "0.092%",
+      "population": "6,854,536"
+    },
+    {
+      "country": "El Salvador",
+      "contribution": "0.087%",
+      "population": "6,520,675"
+    },
+    {
+      "country": "Laos",
+      "contribution": "0.087%",
+      "population": "6,492,400"
+    },
+    {
+      "country": "Libya",
+      "contribution": "0.085%",
+      "population": "6,385,000"
+    },
+    {
+      "country": "Nicaragua",
+      "contribution": "0.084%",
+      "population": "6,262,703"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "contribution": "0.082%",
+      "population": "6,088,000"
+    },
+    {
+      "country": "Lebanon",
+      "contribution": "0.08%",
+      "population": "5,988,000"
+    },
+    {
+      "country": "Denmark",
+      "contribution": "0.077%",
+      "population": "5,745,526"
+    },
+    {
+      "country": "Singapore",
+      "contribution": "0.075%",
+      "population": "5,607,300"
+    },
+    {
+      "country": "Finland",
+      "contribution": "0.074%",
+      "population": "5,502,284"
+    },
+    {
+      "country": "Slovakia",
+      "contribution": "0.073%",
+      "population": "5,426,252"
+    },
+    {
+      "country": "Eritrea",
+      "contribution": "0.072%",
+      "population": "5,352,000"
+    },
+    {
+      "country": "Norway",
+      "contribution": "0.07%",
+      "population": "5,252,166"
+    },
+    {
+      "country": "Central African Republic",
+      "contribution": "0.067%",
+      "population": "4,998,000"
+    },
+    {
+      "country": "Costa Rica",
+      "contribution": "0.065%",
+      "population": "4,890,379"
+    },
+    {
+      "country": "Palestine",
+      "contribution": "0.064%",
+      "population": "4,816,503"
+    },
+    {
+      "country": "Ireland",
+      "contribution": "0.064%",
+      "population": "4,757,976"
+    },
+    {
+      "country": "Turkmenistan",
+      "contribution": "0.064%",
+      "population": "4,751,120"
+    },
+    {
+      "country": "Republic of the Congo",
+      "contribution": "0.063%",
+      "population": "4,741,000"
+    },
+    {
+      "country": "New Zealand",
+      "contribution": "0.0635%",
+      "population": "4,739,060"
+    },
+    {
+      "country": "Oman",
+      "contribution": "0.061%",
+      "population": "4,550,538"
+    },
+    {
+      "country": "Croatia",
+      "contribution": "0.056%",
+      "population": "4,190,669"
+    },
+    {
+      "country": "Kuwait",
+      "contribution": "0.056%",
+      "population": "4,183,658"
+    },
+    {
+      "country": "Liberia",
+      "contribution": "0.055%",
+      "population": "4,076,530"
+    },
+    {
+      "country": "Panama",
+      "contribution": "0.051%",
+      "population": "3,814,672"
+    },
+    {
+      "country": "Georgia",
+      "contribution": "0.05%",
+      "population": "3,720,400"
+    },
+    {
+      "country": "Mauritania",
+      "contribution": "0.05%",
+      "population": "3,718,678"
+    },
+    {
+      "country": "Moldova",
+      "contribution": "0.048%",
+      "population": "3,553,100"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "contribution": "0.047%",
+      "population": "3,531,159"
+    },
+    {
+      "country": "Uruguay",
+      "contribution": "0.047%",
+      "population": "3,480,222"
+    },
+    {
+      "country": "Puerto Rico",
+      "contribution": "0.047%",
+      "population": "3,474,182"
+    },
+    {
+      "country": "Mongolia",
+      "contribution": "0.042%",
+      "population": "3,119,700"
+    },
+    {
+      "country": "Armenia",
+      "contribution": "0.04%",
+      "population": "2,993,900"
+    },
+    {
+      "country": "Albania",
+      "contribution": "0.039%",
+      "population": "2,886,026"
+    },
+    {
+      "country": "Lithuania",
+      "contribution": "0.038%",
+      "population": "2,856,350"
+    },
+    {
+      "country": "Jamaica",
+      "contribution": "0.036%",
+      "population": "2,723,246"
+    },
+    {
+      "country": "Qatar",
+      "contribution": "0.035%",
+      "population": "2,611,522"
+    },
+    {
+      "country": "Namibia",
+      "contribution": "0.031%",
+      "population": "2,324,388"
+    },
+    {
+      "country": "Botswana",
+      "contribution": "0.03%",
+      "population": "2,230,905"
+    },
+    {
+      "country": "Macedonia",
+      "contribution": "0.028%",
+      "population": "2,071,278"
+    },
+    {
+      "country": "Slovenia",
+      "contribution": "0.028%",
+      "population": "2,064,241"
+    },
+    {
+      "country": "Latvia",
+      "contribution": "0.026%",
+      "population": "1,955,700"
+    },
+    {
+      "country": "Lesotho",
+      "contribution": "0.026%",
+      "population": "1,916,000"
+    },
+    {
+      "country": "The Gambia",
+      "contribution": "0.025%",
+      "population": "1,882,450"
+    },
+    {
+      "country": "Kosovo",
+      "contribution": "0.025%",
+      "population": "1,836,978"
+    },
+    {
+      "country": "Gabon",
+      "contribution": "0.024%",
+      "population": "1,802,278"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "contribution": "0.021%",
+      "population": "1,547,777"
+    },
+    {
+      "country": "Bahrain",
+      "contribution": "0.019%",
+      "population": "1,404,900"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "contribution": "0.018%",
+      "population": "1,353,895"
+    },
+    {
+      "country": "Estonia",
+      "contribution": "0.018%",
+      "population": "1,315,944"
+    },
+    {
+      "country": "Mauritius",
+      "contribution": "0.017%",
+      "population": "1,263,747"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "contribution": "0.016%",
+      "population": "1,222,442"
+    },
+    {
+      "country": "East Timor",
+      "contribution": "0.016%",
+      "population": "1,167,242"
+    },
+    {
+      "country": "Swaziland",
+      "contribution": "0.015%",
+      "population": "1,132,657"
+    },
+    {
+      "country": "Djibouti",
+      "contribution": "0.012%",
+      "population": "900,000"
+    },
+    {
+      "country": "Fiji",
+      "contribution": "0.0116%",
+      "population": "867,000"
+    },
+    {
+      "country": "Cyprus",
+      "contribution": "0.011%",
+      "population": "847,000"
+    },
+    {
+      "country": "Comoros",
+      "contribution": "0.011%",
+      "population": "806,153"
+    },
+    {
+      "country": "Bhutan",
+      "contribution": "0.0105%",
+      "population": "781,090"
+    },
+    {
+      "country": "Guyana",
+      "contribution": "0.01%",
+      "population": "746,900"
+    },
+    {
+      "country": "Macau",
+      "contribution": "0.009%",
+      "population": "652,500"
+    },
+    {
+      "country": "Solomon Islands",
+      "contribution": "0.009%",
+      "population": "642,000"
+    },
+    {
+      "country": "Montenegro",
+      "contribution": "0.008%",
+      "population": "621,810"
+    },
+    {
+      "country": "Western Sahara",
+      "contribution": "0.0078%",
+      "population": "584,000"
+    },
+    {
+      "country": "Luxembourg",
+      "contribution": "0.0077%",
+      "population": "576,200"
+    },
+    {
+      "country": "Suriname",
+      "contribution": "0.0073%",
+      "population": "541,638"
+    },
+    {
+      "country": "Cape Verde",
+      "contribution": "0.0071%",
+      "population": "531,239"
+    },
+    {
+      "country": "Transnistria",
+      "contribution": "0.006%",
+      "population": "475,665"
+    },
+    {
+      "country": "Malta",
+      "contribution": "0.0057%",
+      "population": "429,344"
+    },
+    {
+      "country": "Brunei",
+      "contribution": "0.0056%",
+      "population": "417,200"
+    },
+    {
+      "country": "Belize",
+      "contribution": "0.0051%",
+      "population": "380,010"
+    },
+    {
+      "country": "Bahamas",
+      "contribution": "0.0051%",
+      "population": "378,040"
+    },
+    {
+      "country": "Maldives",
+      "contribution": "0.0046%",
+      "population": "344,023"
+    },
+    {
+      "country": "Iceland",
+      "contribution": "0.0045%",
+      "population": "337,610"
+    },
+    {
+      "country": "Northern Cyprus",
+      "contribution": "0.0039%",
+      "population": "294,396"
+    },
+    {
+      "country": "Barbados",
+      "contribution": "0.0038%",
+      "population": "285,000"
+    },
+    {
+      "country": "Vanuatu",
+      "contribution": "0.0037%",
+      "population": "277,500"
+    },
+    {
+      "country": "French Polynesia",
+      "contribution": "0.0036%",
+      "population": "271,800"
+    },
+    {
+      "country": "New Caledonia",
+      "contribution": "0.0036%",
+      "population": "268,767"
+    },
+    {
+      "country": "Abkhazia",
+      "contribution": "0.0032%",
+      "population": "240,705"
+    },
+    {
+      "country": "Samoa",
+      "contribution": "0.0026%",
+      "population": "194,899"
+    },
+    {
+      "country": "São Tomé and Príncipe",
+      "contribution": "0.0025%",
+      "population": "187,356"
+    },
+    {
+      "country": "Saint Lucia",
+      "contribution": "0.0025%",
+      "population": "186,000"
+    },
+    {
+      "country": "Guam",
+      "contribution": "0.0025%",
+      "population": "184,200"
+    },
+    {
+      "country": "Curaçao",
+      "contribution": "0.0021%",
+      "population": "158,986"
+    },
+    {
+      "country": "",
+      "contribution": "0.002%",
+      "population": "150,932"
+    },
+    {
+      "country": "Kiribati",
+      "contribution": "0.0015%",
+      "population": "113,400"
+    },
+    {
+      "country": "Aruba",
+      "contribution": "0.0015%",
+      "population": "110,108"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "contribution": "0.0015%",
+      "population": "109,991"
+    },
+    {
+      "country": "United States Virgin Islands",
+      "contribution": "0.0014%",
+      "population": "106,000"
+    },
+    {
+      "country": "Grenada",
+      "contribution": "0.0014%",
+      "population": "103,328"
+    },
+    {
+      "country": "Tonga",
+      "contribution": "0.0014%",
+      "population": "103,252"
+    },
+    {
+      "country": "Federated States of Micronesia",
+      "contribution": "0.0014%",
+      "population": "102,800"
+    },
+    {
+      "country": "Jersey",
+      "contribution": "0.0014%",
+      "population": "102,700"
+    },
+    {
+      "country": "Seychelles",
+      "contribution": "0.0012%",
+      "population": "93,144"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "contribution": "0.0012%",
+      "population": "86,295"
+    },
+    {
+      "country": "Isle of Man",
+      "contribution": "0.0011%",
+      "population": "84,497"
+    },
+    {
+      "country": "Andorra",
+      "contribution": "0.001%",
+      "population": "78,014"
+    },
+    {
+      "country": "Dominica",
+      "contribution": "0.00095%",
+      "population": "71,293"
+    },
+    {
+      "country": "Guernsey",
+      "contribution": "0.00084%",
+      "population": "62,562"
+    },
+    {
+      "country": "Bermuda",
+      "contribution": "0.00083%",
+      "population": "61,954"
+    },
+    {
+      "country": "Cayman Islands",
+      "contribution": "0.00081%",
+      "population": "60,413"
+    },
+    {
+      "country": "American Samoa",
+      "contribution": "0.00076%",
+      "population": "57,100"
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "contribution": "0.00076%",
+      "population": "56,940"
+    },
+    {
+      "country": "Greenland",
+      "contribution": "0.00075%",
+      "population": "56,186"
+    },
+    {
+      "country": "Marshall Islands",
+      "contribution": "0.00073%",
+      "population": "54,880"
+    },
+    {
+      "country": "South Ossetia",
+      "contribution": "0.00072%",
+      "population": "53,532"
+    },
+    {
+      "country": "Faroe Islands",
+      "contribution": "0.00067%",
+      "population": "49,673"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "contribution": "0.00062%",
+      "population": "46,204"
+    },
+    {
+      "country": "Sint Maarten",
+      "contribution": "0.00053%",
+      "population": "39,410"
+    },
+    {
+      "country": "Monaco",
+      "contribution": "0.00051%",
+      "population": "38,400"
+    },
+    {
+      "country": "Liechtenstein",
+      "contribution": "0.0005%",
+      "population": "37,623"
+    },
+    {
+      "country": "",
+      "contribution": "0.00049%",
+      "population": "36,457"
+    },
+    {
+      "country": "Gibraltar",
+      "contribution": "0.00044%",
+      "population": "33,140"
+    },
+    {
+      "country": "San Marino",
+      "contribution": "0.00044%",
+      "population": "33,005"
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "contribution": "0.00042%",
+      "population": "31,458"
+    },
+    {
+      "country": "British Virgin Islands",
+      "contribution": "0.00038%",
+      "population": "28,514"
+    },
+    {
+      "country": "",
+      "contribution": "0.00025%",
+      "population": "18,905"
+    },
+    {
+      "country": "Cook Islands",
+      "contribution": "0.00024%",
+      "population": "18,100"
+    },
+    {
+      "country": "Palau",
+      "contribution": "0.00024%",
+      "population": "17,950"
+    },
+    {
+      "country": "Anguilla",
+      "contribution": "0.00018%",
+      "population": "13,452"
+    },
+    {
+      "country": "Wallis and Futuna",
+      "contribution": "0.00016%",
+      "population": "11,750"
+    },
+    {
+      "country": "Tuvalu",
+      "contribution": "0.00014%",
+      "population": "10,640"
+    },
+    {
+      "country": "Nauru",
+      "contribution": "0.00014%",
+      "population": "10,084"
+    },
+    {
+      "country": "Saint Barthélemy",
+      "contribution": "0.00013%",
+      "population": "9,417"
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "contribution": "0.000084%",
+      "population": "6,286"
+    },
+    {
+      "country": "Montserrat",
+      "contribution": "0.000066%",
+      "population": "4,922"
+    },
+    {
+      "country": "",
+      "contribution": "0.000057%",
+      "population": "4,255"
+    },
+    {
+      "country": "",
+      "contribution": "0.000052%",
+      "population": "3,877"
+    },
+    {
+      "country": "Falkland Islands",
+      "contribution": "0.000034%",
+      "population": "2,563"
+    },
+    {
+      "country": "Norfolk Island",
+      "contribution": "0.000031%",
+      "population": "2,302"
+    },
+    {
+      "country": "Christmas Island",
+      "contribution": "0.000028%",
+      "population": "2,072"
+    },
+    {
+      "country": "",
+      "contribution": "0.000024%",
+      "population": "1,811"
+    },
+    {
+      "country": "Niue",
+      "contribution": "0.00002%",
+      "population": "1,470"
+    },
+    {
+      "country": "Tokelau",
+      "contribution": "0.000019%",
+      "population": "1,411"
+    },
+    {
+      "country": "Vatican City",
+      "contribution": "0.000011%",
+      "population": "842"
+    },
+    {
+      "country": "Cocos (Keeling) Islands",
+      "contribution": "0.0000074%",
+      "population": "550"
+    },
+    {
+      "country": "Pitcairn Islands",
+      "contribution": "0.00000075%",
+      "population": "57"
+    }
+  ]
+}
